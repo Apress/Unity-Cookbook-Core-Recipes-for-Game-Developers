@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c13fd9ed3a8a2046831d63ce288e196
+timeCreated: 1452482931
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53612
+  packageName: Low Poly Soldiers
+  packageVersion: 1.3.1
+  assetPath: Assets/LowPolySoldiers/models/Materials/Soldier_dark.mat
+  uploadId: 361093
