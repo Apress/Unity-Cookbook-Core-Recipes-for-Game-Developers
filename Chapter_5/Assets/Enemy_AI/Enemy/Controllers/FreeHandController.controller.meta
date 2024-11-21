@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4d38f097ea35254fb4b833d568bb089
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29807
+  packageName: Polite Soldier
+  packageVersion: 1.2
+  assetPath: Assets/Enemy_AI/Enemy/Controllers/FreeHandController.controller
+  uploadId: 62630
