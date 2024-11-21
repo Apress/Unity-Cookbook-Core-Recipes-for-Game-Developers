@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbc979b0acea15b46baed65de61b56e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Melee Warrior Animations FREE
+  packageVersion: 1.2
+  assetPath: Assets/Kevin Iglesias/Melee Warrior Animations/AnimatorControllers/1H/1H@ShieldAttacks.controller
+  uploadId: 479342

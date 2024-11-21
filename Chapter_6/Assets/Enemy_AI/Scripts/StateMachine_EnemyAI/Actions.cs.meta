@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a85c5e349cb17df4b85883ea088c2f95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29807
+  packageName: Polite Soldier
+  packageVersion: 1.2
+  assetPath: Assets/Enemy_AI/Scripts/NPC/Actions.cs
+  uploadId: 62630
